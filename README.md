@@ -1,1 +1,1 @@
-This is a sample readme file 
+This is a sample readme file. for my first git repository. 
