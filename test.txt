@@ -1,0 +1,1 @@
+This is a text file. I am creating a file to see when i create a file without using cmd if it works properly on Git.
